@@ -1,1 +1,1 @@
-this is the practice for pycharm
+this is the practice questions for leetcode
